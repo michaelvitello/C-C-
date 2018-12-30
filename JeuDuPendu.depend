@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1545498630 source:c:\users\micha\desktop\c\jeudupendu\fonctions.c
+	<stddef.h>
+	<stdio.h>
+
+1545491925 source:c:\users\micha\desktop\c\jeudupendu\main.c
+	"headers.h"
+	"dico.h"
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+
+1545498217 c:\users\micha\desktop\c\jeudupendu\headers.h
+
+1545477633 c:\users\micha\desktop\c\jeudupendu\dico.h
+
+1545481663 source:c:\users\micha\desktop\c\jeudupendu\dico.c
+	"dico.h"
+	<stddef.h>
+	<stdio.h>
+
